@@ -5,22 +5,67 @@
   --foreground: #171717;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
 body {
-  background: var(--background);
-  color: var(--foreground);
+  background-color: white;
+  color: #1a1a1a;
+  margin: 0;
+  padding: 0;
   font-family: Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Force standard box sizing so our spacing is exact */
+* {
+  box-sizing: border-box;
+}
+
+.footerContainer {
+  width: 100%;
+  background-color: #f3f4f6; /* Light gray background */
+  font-family: sans-serif;
+  margin-top: auto; /* Crucial for the sticky footer logic */
+}
+
+.topBar {
+  height: 3px;
+  background-color: #ffcc00; /* Matching the yellow line from the header */
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 16px;
+  font-size: 11px;
+  color: #333;
+}
+
+.nav {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #1a472a; /* McMaster Green */
+}
+
+.nav a:hover {
+  text-decoration: underline;
+}
+
+.separator {
+  margin-left: 8px;
+  color: #ccc;
+}
+
+.legal {
+  color: #666;
+}
+
+.legal a {
+  color: #333;
+  text-decoration: underline;
 }

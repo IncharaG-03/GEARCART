@@ -1,0 +1,269 @@
+[
+  {
+    "id": "fastening-joining",
+    "name": "Fastening & Joining",
+    "groups": [
+      {
+        "name": "Fasteners",
+        "subCategories": [
+          {
+            "name": "Screws",
+            "image": "./img/Hex Head Screws.png",
+            "nestedItems": [
+              { "name": "Hex Head Screws", "image": "./img/hex head screws.png", "description": "Features a heavy-duty six-sided head designed for high-torque tightening with standard wrenches or sockets. These are ideal for structural applications requiring robust fastening." },
+              { "name": "Rounded Head Screws", "image": "./img/rounded head screws.png", "description": "Provides a smooth, finished look with a low-profile head that helps prevent snagging on moving parts. They are commonly used in machinery guards and consumer electronics." },
+              { "name": "Tapping Screws", "image": "./img/Tapping Screws.png", "description": "Equipped with sharp threads and a pointed tip that creates its own mating threads in metal or plastic. This eliminates the need for pre-drilling in many thin-gauge materials." },
+              { "name": "Drywall Screws", "image": "./img/drywall screws.png", "description": "Specially coated and bugle-headed for attaching gypsum board to wood or metal studs without tearing the surface. The phosphate coating provides excellent base adhesion for joint compound." }
+            ]
+          },
+          {
+            "name": "Threaded Rods",
+            "image": "./img/Threaded Rods.png",
+            "nestedItems": [
+              { "name": "Threaded Rods", "image": "./img/threaded rods.png", "description": "Continuous threaded lengths designed for general-purpose hanging, mounting, and structural bracing. They can be easily cut to custom lengths using a hacksaw or abrasive saw." },
+              { "name": "Threaded Rods with Hex Nuts", "image": "./img/threaded rods with hex nuts.png", "description": "Complete assembly kits used for heavy-duty anchoring and clamping where nuts are required on both ends. This set ensures compatibility between the rod and the fastening hardware." },
+              { "name": "Left Handed Threaded Rods", "image": "./img/left handed threaded rods.png", "description": "Threaded in the opposite direction to prevent loosening from rotational vibrations in machinery. These are essential for rotating shafts that turn in a clockwise direction." },
+              { "name": "Threaded Rod Assortments", "image": "./img/threaded rod assortments.png", "description": "A collection of various lengths and diameters, ideal for maintenance shops and prototyping needs. The organized storage case helps keep different sizes separated and easy to find." }
+            ]
+          },
+          {
+            "name": "Eyebolts",
+            "image": "./img/Eyebolts.png",
+            "nestedItems": [
+              { "name": "Screw Eyes", "image": "./img/screw eyes.png", "description": "Light-duty fasteners with a closed loop for attaching cables, wires, or hooks to wood surfaces. They are frequently used for hanging lightweight signage or organizing workshop tools." },
+              { "name": "Unthreaded Eyebolts", "image": "./img/unthreaded eyebolts.png", "description": "Used for permanent attachment via welding or pinning, often found in heavy lifting and rigging. The lack of threads allows for a more secure, integrated bond with the base structure." },
+              { "name": "Eyebolts", "image": "./img/Eyebolts.png", "description": "Standard lifting bolts with a fully threaded shank for securing heavy equipment to hoisting lines. Always ensure the load is aligned with the plane of the eye for maximum safety." },
+              { "name": "Eyenuts", "image": "./img/eyenuts.png", "description": "Female-threaded loops that screw onto existing threaded rods or bolts for overhead lifting points. These provide a versatile solution for adding attachment points to pre-installed studs." }
+            ]
+          },
+          {
+            "name": "U-Bolts",
+            "image": "./img/u bolts.png",
+            "nestedItems": [
+              { "name": "U Bolts", "image": "./img/u bolts.png", "description": "Round-bend bolts designed to secure piping or conduit to structural steel and round surfaces. They are widely used in automotive exhaust systems and plumbing installations." },
+              { "name": "Square U Bolts", "image": "./img/square u bolts.png", "description": "Feature a flat base to secure square-shaped tubes or beams to mounting plates. This design prevents the bolt from rotating during tightening against flat surfaces." },
+              { "name": "Rubber Cushioned U Bolts", "image": "./img/rubber cushioned u bolts.png", "description": "Includes a vibration-dampening lining to protect delicate piping and reduce system noise. The cushion also prevents metal-to-metal contact that can lead to galvanic corrosion." },
+              { "name": "NonConductive U Bolts", "image": "./img/nonconductive u bolts.png", "description": "Made from glass-filled nylon or composites for use in electrical and chemical environments. These are ideal for supporting cables in corrosive or high-voltage areas." },
+              { "name": "U Bolt Plates", "image": "./img/u bolt plates.png", "description": "Reinforcement plates that distribute pressure across the surface being clamped by a U-bolt. Using these plates prevents the bolt from digging into or deforming the material being secured." }
+            ]
+          },
+          {
+            "name": "Nuts",
+            "image": "./img/Nuts.png",
+            "nestedItems": [
+              { "name": "Nuts", "image": "./img/nuts.png", "description": "General-purpose hexagonal fasteners used with bolts and rods to create high-strength mechanical joints. They are available in various grades and finishes to match the strength of the mating bolt." }
+            ]
+          },
+          {
+            "name": "Washers",
+            "image": "./img/Washers.png",
+            "nestedItems": [
+              { "name": "Washers", "image": "./img/washers.png", "description": "Flat spacing discs that distribute the load of a fastener to prevent surface damage and loosening. They also help to bridge oversized holes in thin materials." },
+              { "name": "Plastic Washers", "image": "./img/plastic washers.png", "description": "Non-marring, corrosion-resistant washers ideal for sealing and electrical insulation. These are perfect for use with delicate surfaces like glass or painted panels." },
+              { "name": "Square Washers", "image": "./img/square washers.png", "description": "Larger surface area washers used in timber construction to provide maximum load distribution. Their shape provides a greater bearing surface than standard round washers." }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Adhesives & Tape",
+        "subCategories": [
+          {
+            "name": "Adhesives",
+            "image": "./img/adhesives.png",
+            "nestedItems": [
+              { "name": "Adhesives", "image": "./img/adhesives.png", "description": "Industrial bonding agents designed for high-strength permanent assembly of metal, plastic, and glass. These formulas are engineered to withstand extreme temperatures and chemical exposure." },
+              { "name": "Glue Gun", "image": "./img/glue gun.png", "description": "Professional-grade heating tool for precision application of hot-melt adhesive sticks. It features an ergonomic trigger and a fast heat-up time for efficient workflow." },
+              { "name": "Instant Bond Adhesives", "image": "./img/instant bond adhesives.png", "description": "Cyanoacrylate formulas that cure in seconds for rapid repair and small-scale assembly. They provide a strong bond on non-porous surfaces with very little clamping time required." },
+              { "name": "Glue Gun Nozzle", "image": "./img/glue gun nozzle.png", "description": "Precision tips and replacement nozzles for controlling the flow and spread of hot adhesives. Different shapes allow for bead application, wide spreading, or reaching into tight crevices." }
+            ]
+          },
+          {
+            "name": "Tape",
+            "image": "./img/mounting Tape.png",
+            "nestedItems": [
+              { "name": "Mounting Tape", "description": "Double-sided, high-bond tape used for hanging signs and equipment without drilling holes. It conforms to irregular surfaces and provides a permanent, weather-resistant bond.", "image": "./img/mounting tape.png" },
+              { "name": "Electrical Tape", "image": "./img/electrical tape.png", "description": "Pressure-sensitive vinyl tape used for insulating wires and shielding electrical connections. It is highly flexible and resistant to moisture, abrasion, and varying weather conditions." },
+              { "name": "Duct Tape", "image": "./img/duct tape.png", "description": "Heavy-duty cloth-backed tape with extreme adhesive strength for sealing and emergency repairs. Its versatile nature makes it a staple for both industrial maintenance and household fixes." },
+              { "name": "Marking Tape", "image": "./img/marking tape.png", "description": "High-visibility vinyl tape for designating floor hazards, aisles, and safety zones. The durable material resists scuffing from foot traffic and heavy warehouse machinery." }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Electricals-Lighting",
+    "name": "Electricals and Lighting",
+    "groups": [
+      {
+        "name": "Electrical Components",
+        "subCategories": [
+          {
+            "name": "Bulbs",
+            "image": "./img/bulbs.png",
+            "nestedItems": [
+              { "name": "Bulbs", "image": "./img/bulbs.png", "description": "A wide variety of LED, halogen, and incandescent lamps for industrial and warehouse lighting. These bulbs are selected for their durability and consistent light output in demanding environments." },
+              { "name": "Bi Pin Base Floodlight Bulbs", "image": "./img/bi pin base floodlight bulb.png", "description": "High-intensity bi-pin base bulbs for outdoor and industrial lighting applications. They provide a focused beam of light suitable for security and large-area illumination." },
+              { "name": "Miniature LED Bulbs", "image": "./img/miniature bulbs.png", "description": "Energy-efficient LED bulbs with long lifespans, ideal for commercial and residential use. Their small form factor makes them perfect for indicator lights and accent fixtures." },
+              { "name": "Coloured Screw-in Bulbs", "image": "./img/coloured screw in bulb.png", "description": "Coloured screw-in bulbs for decorative and functional lighting applications. Use them to create specific moods or to signal different operational statuses in a facility." },
+              { "name": "Screw-in Bulbs", "image": "./img/screw in bubs.png", "description": "Standard screw-in bulbs for general lighting applications in residential and commercial settings. They are compatible with most standard sockets for easy replacement and maintenance." }
+            ]
+          },
+          {
+            "name": "Batteries",
+            "image": "./img/batteries.png",
+            "nestedItems": [
+              { "name": "Batteries", "image": "./img/batteries.png", "description": "Standard and specialized power cells, from alkaline AA to high-output lithium for portable tools. These batteries are designed to provide reliable, long-lasting energy for critical devices." }
+            ]
+          },
+          {
+            "name": "Wires and Cables",
+            "image": "./img/power cable.png",
+            "nestedItems": [
+              { "name": "Grounding Wire", "image": "./img/grounding wire.png", "description": "Bare copper and insulated wires designed to provide a safe discharge path for electrical surges. Proper grounding is essential for protecting both personnel and sensitive electronic equipment." },
+              { "name": "Power Cables", "image": "./img/power cable.png", "description": "Multicore, heavy-gauge cables for delivering primary power to machinery and electrical panels. They are rated for high voltage and current to ensure safe power distribution." },
+              { "name": "Cable Ties", "image": "./img/cable ties.png", "description": "Self-locking nylon fasteners for organizing and securing wire bundles and cable runs. Their high tensile strength ensures that cables remain neatly bundled even under mechanical stress." }
+            ]
+          },
+          {
+            "name": "Cable and Wire Tools",
+            "image": "./img/Wire Cutters.png",
+            "nestedItems": [
+              { "name": "Cable and Wire Crimpers", "image": "./img/wire and cable crimpers.png", "description": "Ratcheting hand tools designed to compress terminals onto wires for air-tight electrical connections. The built-in mechanism ensures a consistent, high-quality crimp every time." },
+              { "name": "Wire Cutters", "image": "./img/wire cutters.png", "description": "Hardened steel cutting edges for clean, shear-style trimming of various wire gauges. The insulated handles provide a comfortable grip and protection during electrical work." },
+              { "name": "Wire Sleeving", "image": "./img/wire sleeving.png", "description": "Expandable protective mesh used to shield cables from abrasion and mechanical wear. It also helps in organizing multiple wires into a single, manageable bundle." }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pipe-Tubing",
+    "name": "Pipe & Tubing",
+    "groups": [
+      {
+        "name": "Pipes & Pipe Fittings",
+        "subCategories": [
+          {
+            "name": "Pipes",
+            "image": "./img/steel pipe.png",
+            "nestedItems": [
+              { "name": "Pipes", "image": "./img/steel pipe.png", "description": "Rigid structural and fluid-handling pipes available in steel, PVC, and copper alloys. These pipes are manufactured to meet strict industry standards for pressure and durability." },
+              { "name": "Chimney Pipes", "image": "./img/chimney pipe.png", "description": "Double-walled insulated venting for safe exhaust of high-temperature furnace gases. The insulation helps maintain draft and prevents the outer surface from becoming a fire hazard." },
+              { "name": "CPVC Pipes for Hot Water", "image": "./img/cpvc pipe HW.png", "description": "Thermoplastic piping designed for residential and industrial hot-water distribution systems. It offers superior resistance to heat and common plumbing chemicals compared to standard PVC." },
+              { "name": "Fiberglass Pipes", "image": "./img/fiberglass pipe.png", "description": "Corrosion-proof, lightweight piping suitable for seawater and aggressive chemical transport. Its high strength-to-weight ratio makes it an excellent choice for offshore and industrial applications." },
+              { "name": "Routing Pipe Clamps", "image": "./img/routing pipe clamps.png", "description": "Structural hangers used to support and align pipe runs along walls or ceilings. They allow for thermal expansion and contraction while keeping the piping system securely in place." }
+            ]
+          },
+          {
+            "name": "Hose",
+            "image": "./img/Hose.png",
+            "nestedItems": [
+              { "name": "Hose", "image": "./img/hose.png", "description": "Flexible fluid lines for air, water, and hydraulic oil, reinforced for pressure resistance. The outer cover is designed to resist ozone, weather, and abrasion in harsh environments." },
+              { "name": "Hose Fittings", "image": "./img/hose fittings.png", "description": "Barbed and threaded connectors for secure attachment of hoses to pumps and tools. These fittings are precision-machined to prevent leaks and ensure a reliable connection under pressure." }
+            ]
+          },
+          {
+            "name": "Pipe Wrenches",
+            "image": "./img/pipe wrenches.png",
+            "nestedItems": [
+              { "name": "Pipe Wrenches", "image": "./img/pipe wrenches.png", "description": "Heavy-duty adjustable wrenches with serrated jaws for gripping and turning round pipes. The self-locking design provides a powerful grip that increases as more torque is applied." }
+            ]
+          },
+          {
+            "name": "Valves",
+            "image": "./img/valves.png",
+            "nestedItems": [
+              { "name": "Valves", "image": "./img/valves.png", "description": "Precision flow-control devices, including ball and gate valves, for regulating fluid systems. They are available in various materials to ensure compatibility with different liquids and gases." },
+              { "name": "Drum Faucets", "image": "./img/drum faucets.png", "description": "Heavy-duty dispensing taps for horizontal storage drums and chemical containers. The large handle provides easy operation even when wearing thick industrial gloves." }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tube & Tube Fittings",
+        "subCategories": [
+          {
+            "name": "Tubes",
+            "image": "./img/tubing.png",
+            "nestedItems": [
+              { "name": "Tubing", "image": "./img/tubing.png", "description": "Lightweight, flexible tubing for laboratory, medical, and low-pressure pneumatic use. It is available in clear versions for easy visual monitoring of fluid flow." },
+              { "name": "Tube Support", "image": "./img/tube support.png", "description": "Channels and clamps that prevent sagging and kinking in long runs of flexible tubing. Proper support extends the life of the tubing by reducing mechanical stress at connection points." },
+              { "name": "Tube Fittings", "image": "./img/tube fittings.png", "description": "Push-to-connect and compression fittings for rapid, leak-free tubing assembly. These fittings allow for quick modifications to pneumatic systems without the need for specialized tools." },
+              { "name": "Tube End Caps", "image": "./img/tube end caps.png", "description": "Protective plugs and covers to seal tube ends from contaminants during storage. They also prevent sharp tube edges from causing injury or damaging other equipment during transport." }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Office-Supplies",
+    "name": "Office Supplies",
+    "groups": [
+      {
+        "name": "Office Supplies",
+        "image": "./img/telephones.png",
+        "subCategories": [
+          {
+            "name": "Electronics",
+            "image": "./img/telephones.png",
+            "nestedItems": [
+              { "name": "Telephones", "image": "./img/telephones.png", "description": "Enterprise-grade VOIP and analog phones for reliable business communication. They feature programmable keys and high-quality speakerphones for efficient conference calling." },
+              { "name": "Clock", "image": "./img/clock.png", "description": "High-visibility wall clocks with atomic synchronization for precise timekeeping. The large numerals ensure easy readability from across large office spaces or warehouses." },
+              { "name": "Calculator", "image": "./img/calculator.png", "description": "Digital and scientific calculators for precise calculations in office and laboratory settings. These units are designed with tactile buttons and high-contrast displays for error-free data entry." }
+            ]
+          },
+          {
+            "name": "Computer Accessories",
+            "image": "./img/mice.png",
+            "nestedItems": [
+              { "name": "Mice", "image": "./img/mice.png", "description": "Ergonomic optical and laser mice designed for long-term comfort and precision. They feature adjustable DPI settings and programmable buttons to enhance productivity during intensive tasks." },
+              { "name": "Keyboards", "image": "./img/keyboards.png", "description": "Spill-resistant, full-size mechanical and membrane keyboards for office workstations. These units include tactile feedback and quiet-key technology to ensure a comfortable typing experience in shared environments." },
+              { "name": "Headphones", "image": "./img/headphones.png", "description": "Noise-canceling headsets with integrated microphones for clear communication and calls. The padded ear cups provide all-day comfort while the high-fidelity drivers deliver crisp audio for virtual meetings." },
+              { "name": "Label Printers", "image": "./img/label printers.png", "description": "Compact label printers for quick and efficient labeling of products and packages. They support various label sizes and styles to meet all your organizational and shipping needs." },
+              { "name": "WebCams", "image": "./img/webcam.png", "description": "High-definition webcams with built-in microphones for video conferencing and remote collaboration. The auto-focus and low-light correction features ensure you always look professional on camera." }
+            ]
+          }
+        ]
+      }
+    ]
+},
+{
+    "id": "Abrasives-polishing",
+    "name": "Abrasives & Polishing",
+    "groups": [
+      {
+        "name": "Abrasives & Polishing",
+        "image": "./img/grinding wheels.png",
+        "subCategories": [
+          {
+            "name": "Sanding",
+            "image": "./img/sanding discs.png",
+            "nestedItems": [
+              { "name": "Sanding Discs", "image": "./img/sanding discs.png", "description": "High-quality sanding discs for precision surface finishing. They are available in a range of grits to take a project from rough shaping to a mirror-like polish. These discs feature a durable backing that resists tearing during high-speed rotation." },
+              { "name": "Sanding Belts", "image": "./img/sanding belts.png", "description": "Ergonomic sanding belts for smooth, consistent, even sanding. The heavy-duty cloth backing prevents tearing even when used on sharp metal edges. They are designed with a precision splice for bidirectional running and extended belt life." },
+              { "name": "Sanding Bits", "image": "./img/sanding bits.png", "description": "Durable sanding tools for efficient material removal and surface preparation. These small-scale abrasives are perfect for detail work in tight spaces and intricate carvings. Available in various shapes, they allow for precise contouring on wood, metal, and plastic surfaces." },
+              { "name": "Sanding Sheets", "image": "./img/sanding sheets.png", "description": "Versatile sanding sheets for hand sanding and detail work. They can be easily folded or cut to size for use on sanding blocks or by hand. The abrasive coating is resin-bonded to ensure long-lasting performance without shedding particles." },
+              { "name": "Sanding Disc Adapters", "image": "./img/sanding disc adapters.png", "description": "Flexible sanding sponges for contoured surfaces and hard-to-reach areas. The foam core allows the abrasive to conform to curves without creating flat spots. They are washable and reusable, providing a cost-effective solution for manual finishing." }
+            ]
+          },
+          {
+            "name": "Grinding Wheels",
+            "image": "./img/grinding wheels.png",
+            "nestedItems": [
+              { "name": "Grinding Wheels", "image": "./img/grinding wheels.png", "description": "High-performance grinding wheels for precision material removal and surface finishing. Engineered with premium abrasive grains, they deliver cool cutting action to minimize thermal damage to the workpiece." },
+              { "name": "Grinding Bits", "image": "./img/grinding bits.png", "description": "Durable grinding bits for efficient material removal and surface preparation. These bits feature a hardened shank for stability and are ideal for deburring and shaping hard metals." },
+              { "name": "Grinding Cones", "image": "./img/grinding cones.png", "description": "Versatile grinding tools for various industrial applications and surface preparation needs. Their tapered shape allows for easy access into holes and corners that standard wheels cannot reach." },
+              { "name":"burrs", "image": "./img/burr.png", "description": "Precision cutting tools for shaping, deburring, and finishing metal and other materials. Manufactured from tungsten carbide, they maintain a sharp cutting edge even under high-temperature conditions." },
+              { "name": "Grinding Wheel Adapters", "image": "./img/grinding wheel adapters.png", "description": "Flexible grinding sponges for contoured surfaces and hard-to-reach areas. The abrasive grit is evenly distributed throughout the sponge for consistent results over its lifespan." }
+            ]
+          }
+        ]
+      }
+    ]
+}
+  
+]
